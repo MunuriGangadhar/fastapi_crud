@@ -37,8 +37,8 @@ fastapi-jwt-mongodb/
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/fastapi-jwt-mongodb.git
-cd fastapi-jwt-mongodb
+git https://github.com/MunuriGangadhar/fastapi_crud.git
+cd fastapi_crud
 ```
 
 ### Step 2: Install dependencies
